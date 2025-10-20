@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IA Watermark Remover",
+  "description": "An application that removes the Google Gemini symbol from AI-generated images using advanced inpainting techniques powered by the Gemini API.",
+  "requestFramePermissions": []
+}
